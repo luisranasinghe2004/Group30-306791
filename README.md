@@ -6,7 +6,7 @@ The **Aerogel Bonding Risk Analysis Project** aims to develop a machine learning
 
 Our dataset contains detailed attributes related to workers' performance, bonding risks, material processing, and operational metrics. By analyzing these attributes, the project seeks to predict critical outcomes like bonding success and churn risk, enabling improved decision-making in industrial applications.
 
-This project was undertaken by [Team Name]. Team members include:
+This project was undertaken by GROUP 30. Team members include:
 - **[Luis Ranasinghe]**
 - **[Gabriele Creta]**
 - **[Flavia Rosina]**
